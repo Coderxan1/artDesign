@@ -1,1 +1,1 @@
-# artDesign
+# Web page to showcase Art Designs
